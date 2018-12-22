@@ -1,0 +1,48 @@
+.colors-column {
+  width: 15%;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.second-column {
+  width: 85%;
+}
+
+figcaption {
+  font-size: 16px;
+}
+
+.second-row {
+  height: 50%;
+}
+
+.color-one {
+  height: 30px;
+  width: 30px;
+}
+
+.color-two {
+  height: 30px;
+  width: 30px;
+}
+
+.color-three {
+  height: 30px;
+  width: 30px;
+}
+
+.color-p {
+  font-size: 13px;
+}
+
+.text-container {
+  height: 20%;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.space {
+  width: 30%;
+}
